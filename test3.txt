@@ -1,0 +1,8 @@
+add 420885795|Kerble|Roger|Zoo
+add 492553422|Marticu|Bill|Psyc
+find 420885795
+find 492553422
+find 712491914
+del 420885795
+find 420885795
+end
